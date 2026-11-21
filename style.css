@@ -1,0 +1,55 @@
+
+.text
+{
+    display: flex;
+    justify-content: space-around;
+}
+body
+{
+
+
+  font-family: "Shantell Sans", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "BNCE" 0,
+    "INFM" 0,
+    "SPAC" 0;
+}
+body
+{
+    background-color: orangered;
+}
+
+.img-1
+{
+    width: 100px;
+    height: 95px;
+}
+.img-3
+{
+    width: 1450px;
+    height: 850px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    box-shadow: 0 15px 15px  brown;
+
+}
+
+.img-2
+{
+    margin-left: 250px;
+}
+.box
+{
+    background-color: red;
+    width: 1400px;
+    margin-left: 250px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
